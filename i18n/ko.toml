@@ -18,7 +18,7 @@ other = "목차"
 other = "Contact me"
 
 [email]
-other = "Email"
+other = "이메일"
 
 [phone]
 other = "Phone"
@@ -61,6 +61,32 @@ other = "더보기"
 
 [show_less]
 other = "간단히"
+
+[name]
+other = "이름"
+
+[company]
+other = "회사명"
+
+[website]
+other = "웹사이트"
+
+[service]
+other = "서비스"
+
+[localization]
+other = "로컬라이제이션"
+
+[website_review]
+other = "웹사이트 리뷰"
+
+[copywriting]
+other = "영문 카피라이팅"
+
+[other]
+other = "기타"
+
+
 
 # [responsibilities]
 # other = "Responsibilities:"

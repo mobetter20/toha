@@ -112,3 +112,27 @@ other = "Notes"
 
 [disclaimer_text]
 other = "Liability Notice"
+
+[name]
+other = "Your name"
+
+[company]
+other = "Company name"
+
+[website]
+other = "Website link"
+
+[service]
+other = "Service"
+
+[localization]
+other = "localization"
+
+[website_review]
+other = "website review"
+
+[copywriting]
+other = "copywriting"
+
+[other]
+other = "other"
